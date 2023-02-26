@@ -1,6 +1,6 @@
-package ch05.exercise;
+package ch05.Check;
 
-public class Ex9 { // 199p 확인문제 8번
+public class Q8 { // 199p 확인문제 8번
     public static void main(String[] args) {
         int[][] array = {
                 {95, 86},

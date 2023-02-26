@@ -1,6 +1,6 @@
 package codeTest.programmers;
 
-class Solution {
+class Solution120913 {
     public String[] solution(String my_str, int n) {
         String str = my_str;
         int len = (my_str.length()) / n;
