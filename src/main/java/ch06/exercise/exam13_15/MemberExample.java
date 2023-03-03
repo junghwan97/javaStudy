@@ -10,8 +10,8 @@ public class MemberExample {
         } else {
             System.out.println("id 또는 password가 올바르지 않습니다.");
         }
-        System.out.println(member1.name);
-        System.out.println(member1.id);
-        System.out.println(member1.password);
+//        System.out.println(member1.name);
+//        System.out.println(member1.id);
+//        System.out.println(member1.password);
     }
 }
