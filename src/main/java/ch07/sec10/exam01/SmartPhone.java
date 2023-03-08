@@ -1,7 +1,7 @@
 package ch07.sec10.exam01;
 
 public class SmartPhone extends Phone{
-    SmartPhone(String owner){
+    public SmartPhone(String owner){
         super(owner);
     }
 
