@@ -1,4 +1,4 @@
-package com.example.javastudy;
+package codeTest.programmers.javastudy;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
