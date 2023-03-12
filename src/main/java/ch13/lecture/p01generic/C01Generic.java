@@ -1,9 +1,9 @@
-package ch13.p01generic;
+package ch13.lecture.p01generic;
 
 public class C01Generic {
     public static void main(String[] args) {
         MyClass01 o1 = new MyClass01();
-        o1.setItem("java");
+        o1.setItem("java!!");
 
         String s1 = null;
         Object o2 = o1.getItem();

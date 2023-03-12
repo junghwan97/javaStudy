@@ -1,4 +1,4 @@
-package ch13.p01generic;
+package ch13.lecture.p01generic;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ch13.p01generic;
+package ch13.lecture.p01generic;
 
 public class C03Diamond {
     MyClass03<String> o1 = new MyClass03<String>();
