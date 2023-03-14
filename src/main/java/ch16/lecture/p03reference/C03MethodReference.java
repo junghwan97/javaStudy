@@ -2,6 +2,9 @@ package ch16.lecture.p03reference;
 
 public class C03MethodReference {
     public static void main(String[] args) {
+
+        // 인스턴스 메서드 참조
+        // Reference to an instance method of a paricular object
         MyInterface04 o1 = a -> System.out.println(a);
 
         MyClass03 s1 = new MyClass03();
