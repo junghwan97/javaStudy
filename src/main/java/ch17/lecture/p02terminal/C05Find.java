@@ -9,8 +9,8 @@ public class C05Find {
 
         // Optional<T>
         Optional<String> o1 = Optional.of("java");
-        System.out.println(o1.isPresent());
-        System.out.println(o1.isEmpty());
+        System.out.println(o1.isPresent()); // true
+        System.out.println(o1.isEmpty()); // false
         String s1 = o1.get();
         System.out.println(s1); // java
         String s2= o1.orElse("default");
